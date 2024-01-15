@@ -1,7 +1,6 @@
-This fork is an attempt to change this project to be Python3 compatible.
-There is an additional library (`solar_inverter_homie`) required for the MQTTOutput output type.
-You will need to install this in a location Python look at or create an `PYTHONPATH` environment variable
-that points to where you install that library folder.
+# Repo info
+This is a fork of [Woutrrr/Omnik-Data-Logger](https://github.com/Woutrrr/Omnik-Data-Logger)
+included with the [Pyhton 3 support merge request from clmcavaney](https://github.com/Woutrrr/Omnik-Data-Logger/pull/44).
 
 # Omnik Data Logger
 Omnik Data Logger is a small script for uploading data from a Omniksol Solar 
